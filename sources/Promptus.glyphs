@@ -2,7 +2,6 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-"6",
 "AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIĲÍÎÏÌJ/Jacute KLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcçdðeéêëèfghiıíîïìĳjȷ/jacute klmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳz0123456789 /nbspace/enspace/emspace/enquad/emquad/threeperemspace/fourperemspace/sixperemspace/figurespace/punctuationspace/thinspace/hairspace/zerowidthspace/zerowidthnonjoiner/zerowidthjoiner/narrownbspace/mediumspace-math/lefttorightmark/righttoleftmark/space-han .,:;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'⚹@&§°|†$€%̧̈̇̀́̂̊̃¨"
 );
 axes = (
@@ -21,23 +20,23 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
-value = -200;
+value = -250;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1086;
+value = 1000;
 },
 {
 name = winDescent;
-value = 216;
+value = 250;
 },
 {
 name = hheaAscender;
@@ -45,7 +44,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = strikeoutPosition;
@@ -65,22 +64,22 @@ id = "529A3C21-2EE4-4A9B-A6FF-34138032017A";
 metricValues = (
 {
 over = 16;
-pos = 1000;
+pos = 1200;
 },
 {
 over = 16;
-pos = 833;
+pos = 800;
 },
 {
 over = 16;
-pos = 633;
+pos = 600;
 },
 {
 over = -16;
 },
 {
 over = -16;
-pos = -200;
+pos = -250;
 },
 {
 }
@@ -104,7 +103,7 @@ id = m01;
 metricValues = (
 {
 over = 16;
-pos = 1000;
+pos = 1200;
 },
 {
 over = 16;
@@ -119,7 +118,7 @@ over = -16;
 },
 {
 over = -16;
-pos = -200;
+pos = -250;
 },
 {
 }
@@ -147,22 +146,22 @@ id = "23BFF7D0-A449-46AC-916C-A2933124BFA1";
 metricValues = (
 {
 over = 16;
-pos = 1000;
+pos = 1200;
 },
 {
 over = 16;
-pos = 700;
+pos = 800;
 },
 {
 over = 16;
-pos = 500;
+pos = 600;
 },
 {
 over = -16;
 },
 {
 over = -16;
-pos = -400;
+pos = -250;
 },
 {
 }
