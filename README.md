@@ -5,7 +5,7 @@ Tries to use something like Rogers AntiqueOlive in a Digital Interface UI scenar
 The font is under development.
 
 ![Sample Image](documentation/image-ExtraLight.png)
-![Sample Image](documentation/image-Semibold.png)
+![Sample Image](documentation/image-SemiBold.png)
 ![Sample Image](documentation/image-Black.png)
 
 Find specimen and language samples as pdf file in subfolder documentation.
